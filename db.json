@@ -1,14 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "todos": [{
+            "id": "164c7711-d628-4c5f-970e-b7ff7ffc6f54",
+            "text": "start reading new book",
+            "category": "home",
+            "description": "read more than 20 pages",
+            "completed": false,
+            "deleted": false
+        },
+        {
+            "id": "3f9c8fdd-2525-4f25-9059-e35583a12a8d",
+            "text": "rthty",
+            "category": "work",
+            "description": "hntyjhty",
+            "completed": false,
+            "deleted": false
+        },
+        {
+            "id": "f35d88d1-0003-4bf4-bfb5-6ac8b9f18482",
+            "text": "ghtght",
+            "category": "nnn",
+            "description": "bghtght",
+            "completed": false,
+            "deleted": false
+        },
+        {
+            "id": "7743f221-55d2-4f02-a9a2-d0274d425d61",
+            "text": "ggfftb",
+            "category": "home",
+            "description": "bggb",
+            "completed": false,
+            "deleted": false
+        },
+        {
+            "id": "04065555-e96c-415b-9531-1313df0c18c7",
+            "text": "tgbhrftg",
+            "category": "home",
+            "description": "bhfdrtgbhnrtfh",
+            "completed": false,
+            "deleted": false
+        },
+        {
+            "id": "89b54679-4ac1-4f9c-8a05-3be1c7a13201",
+            "text": "gfbhndgfbhn",
+            "category": "home",
+            "description": "gfbhngftrbhrtf",
+            "completed": false,
+            "deleted": false
+        }
+    ],
+    "categories": [{
+            "category": "work",
+            "color": "#FBD6AA"
+        },
+        {
+            "category": "home",
+            "color": "#FB77FF"
+        },
+        {
+            "category": "hobby",
+            "color": "#F33AAA"
+        }
+    ]
 }
